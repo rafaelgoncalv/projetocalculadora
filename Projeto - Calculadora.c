@@ -27,6 +27,10 @@ int main() // Função obrigatória
 
     while(resposta == 's' || resposta == 'S'){
 
+        num1 = 0;
+        num2 = 0;
+        expoente = 0;
+        fatorial = 0;
         printf("Digite a operacao:");
         printf("\n[+] - Adicao");
         printf("\n[-] - Subtracao");
